@@ -31,7 +31,7 @@ function calculateAll() {
 
   const arrayOfProducts = [...allProducts];
 
-  console.log(arrayOfProducts);
+  //const allProducts = [...document.querySelectorAll('.product')]
 
   let sumProducts = 0;
 
